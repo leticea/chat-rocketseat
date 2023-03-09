@@ -18,3 +18,17 @@ body {
   overflow: hidden;
 }
 
+body * {
+  font-family: "Roboto", sans-serif;
+}
+
+#app {
+  padding: 2.4rem 3.2rem;
+  height: 100vh;
+  width: 100vw;
+  max-width: 880px;
+  display: grid;
+  grid-template-rows: max-content 1fr max-content;
+  margin: auto;
+}
+
