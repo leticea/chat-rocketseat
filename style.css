@@ -103,3 +103,24 @@ body * {
   padding: 1.4rem;
   border-radius: 0 0.8rem 0.8rem 0.8rem;
 }
+
+.message:not(.you) {
+  width: 40vw;
+}
+
+.message.you {
+  margin-left: auto;
+}
+
+.message.you .top {
+  text-align: right;
+}
+
+.message.you .body {
+  background-color: #07847e;
+  border-radius: 0.8rem 0.8rem 0 0.8rem;
+}
+
+form {
+  
+}
