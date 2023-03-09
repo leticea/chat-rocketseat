@@ -7,13 +7,13 @@
 }
 
 :root {
-  font-size: 62.5%; /* 1rem = 10px */
+  font-size: 62.5%;
 }
 
 body {
   background-color: #1a1924;
   font-size: 1.6rem;
-  color: #1e1e16;
+  color: #e1e1e6;
   height: 100vh;
   overflow: hidden;
 }
@@ -139,4 +139,19 @@ form:focus-within {
   outline: 2px solid white;
 }
 
-input
+input::placeholder {
+  color: #e1e1e6;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
+
+button i {
+  color: #e1e1e6;
+  font-size: 2.4rem;
+}
+
+input,
+button {
+  background-color: transparent;
+  border: 0;
+}
