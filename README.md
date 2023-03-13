@@ -51,10 +51,22 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td><a href="https://github.com/leticea/product-card">🔗</a></td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>05</td>
       <td>Calculator</td>
       <td>08/02/23</td>
       <td><a href="https://github.com/leticea/calculator-rocketseat">🔗</a></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>Boarding Pass</td>
+      <td>15/02/23</td>
+      <td><a href="https://github.com/leticea/boarding-pass">🔗</a></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>Find Carnival Blocks</td>
+      <td>22/02/23</td>
+      <td><a href="https://github.com/leticea/find-carnival-blocks">🔗</a></td>
     </tr>
     <tr>
       <td>08</td>
@@ -67,6 +79,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>Currency Converter</td>
       <td>08/03/23</td>
       <td><a href="https://github.com/leticea/currency-converter">🔗</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Weather Page</td>
+      <td>15/03/23</td>
+      <td><a href="https://github.com/leticea/weather-page">🔗</a></td>
     </tr>
   </tbody>
 </table>
