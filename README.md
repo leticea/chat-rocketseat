@@ -15,7 +15,7 @@
   <img alt="" src=".github/image2.png">
 </p>
 
-## Chat
+# Chat
 
 ## 🚀 Tecnologias
 
